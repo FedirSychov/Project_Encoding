@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{9D2787EF-E412-4544-B967-170840BA86A3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Encryption/teacher_form.cs">
+    <Files>
+      <File FileName="Encryption/code.cs" Line="7" Column="21" />
+      <File FileName="Encryption/db.cs" Line="10" Column="13" />
+      <File FileName="Encryption/Hash.cs" Line="8" Column="21" />
+      <File FileName="Encryption/Help_form.cs" Line="8" Column="19" />
+      <File FileName="Encryption/login_form.cs" Line="19" Column="35" />
+      <File FileName="Encryption/online_form.cs" Line="15" Column="37" />
+      <File FileName="Encryption/Program.cs" Line="20" Column="48" />
+      <File FileName="Encryption/register_student_form.cs" Line="15" Column="46" />
+      <File FileName="Encryption/sec_pass_form.cs" Line="41" Column="56" />
+      <File FileName="Encryption/teacher_form.cs" Line="12" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Encryption" expanded="True">
+            <Node name="Encryption" expanded="True">
+              <Node name="teacher_form.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Encryption PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
